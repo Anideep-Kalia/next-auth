@@ -1,0 +1,3 @@
+-> login with GitHub:
+GitHub account settings -> developer settings -> o auth -> register new app -> home page url={http://localhost:3000/} and autherization callback URL={http://localhost:3000/api/auth/callback/github} 
+copy client id and secret paste in env file

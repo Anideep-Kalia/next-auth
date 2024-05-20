@@ -1,0 +1,7 @@
+-> FULL STACK PROJECT
+- login and signup page
+- params use
+- no next auth
+- email verification 
+- cookies
+- 

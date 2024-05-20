@@ -4,4 +4,4 @@
 - no next auth
 - email verification 
 - cookies
-- 
+- middlewares
